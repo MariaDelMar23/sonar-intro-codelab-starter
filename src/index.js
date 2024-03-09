@@ -25,3 +25,5 @@ export function sortAnimals() {
 
   return animalsData;
 }
+
+export default sortAnimals;
